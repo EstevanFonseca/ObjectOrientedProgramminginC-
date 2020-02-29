@@ -36,13 +36,13 @@ int main()
 	{
 		cout << "Enter temperature in fahrenheit : ";
 		cin >> temper;
-		cout << "In celsius that’s " << 5.0 / 9.0 * (temper - 32.0);
+		cout << "In celsius thatâ€™s " << 5.0 / 9.0 * (temper - 32.0);
 	}
 	else
 	{
 		cout << "Enter temperature in celsius : ";
 		cin >> temper;
-		cout << "In fahrenheit that’s " << 9.0 / 5.0 * temper + 32.0;
+		cout << "In fahrenheit thatâ€™s " << 9.0 / 5.0 * temper + 32.0;
 	}
 	cout << endl;
 
